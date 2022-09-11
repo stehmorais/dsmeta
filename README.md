@@ -11,7 +11,7 @@
 
 <br>
 
-# :computer: Tecnologias utilizadas:
+# :computer: Tecnologias utilizadas
 
 > FRONT END:
 - HTML
@@ -25,6 +25,7 @@
 - Spring boot
 - SQL – Banco de dados H2
 
+<br>
 
 # :pushpin: Aprendizado
 
@@ -32,13 +33,19 @@
 - Aula 2 –> banco de dados, database seed, API REST, integração com SMS
 - Aula 3 -> integração front-end e back end, requisitos com Axios, React Hook useEffect, parâmetros de consulta, implantação na nuvem
 
+<br>
 
-# :pushpin: Ferramentas
+# :pushpin: Ferramentas utilizadas
 - STS
 - Nodejs 16 e Yarn
 - VS code
 - Spring Tools
 - Git
 - Github
+- Postman
+- Heroku CLI
+- Twilio
+- Netlify
+
 
 
